@@ -1,9 +1,9 @@
-# [TeachYourselfCS](https://teachyourselfcs.com/) using [Korea OpenCourseWare](http://www.kocw.net/home/index.do)
+# [TeachYourselfCS](https://teachyourselfcs.com/) using [Korea OpenCourseWare](http://www.kocw.net/home/index.do) and MOOCs
 
 
 |Subject|Why study?|Videos|
 |-------|----------|------|
-|Programming|Don’t be the person who “never quite understood” something like recursion.|[프로그래밍언어론](http://www.kocw.net/home/cview.do?cid=2ad6e7d5dcbbc80e) (건국대학교 남원홍교수)|
+|Programming|Don’t be the person who “never quite understood” something like recursion.|[Principles of Programming](http://ropas.snu.ac.kr/~kwang/4190.210/mooc/) (서울대학교 이광근교수)
 |Computer Architecture|If you don’t have a solid mental model of how a computer actually works, all of your higher-level abstractions will be brittle.|[컴퓨터구조](http://www.kocw.net/home/cview.do?cid=5139e65e54154a76) (숭실대학교 김병기교수)|
 |Algorithms and Data Structures|If you don’t know how to use ubiquitous data structures like stacks, queues, trees, and graphs, you won’t be able to solve challenging problems.|알고리즘 () 자료구조 ()|
 |Math for CS|CS is basically a runaway branch of applied math, so learning math will give you a competitive advantage.|이산수학 () 선형대수 ()|
