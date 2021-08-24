@@ -54,6 +54,21 @@
 🌟 모든 프로그래밍 언어에는 각 타입마다 그 타입의 값을 *만드는 식*과 *사용하는 식*을 구성하는 방법이 제공된다. (만들기 Introduction + 사용하기 Elimination)
 
 ## 2. 이름짓기 (binding, declaration, definition)
+
+### 2.1. 이름짓기 (binding, declaration, definition)
+🌟 이름 짓기는 *속 내용 감추기* (*abstraction*)의 첫 스텝: 이름을 지으면 지칭하는 대상(속내용) 대신에 그 이름을 사용
+
+- 이름 지을 수 있는 대상:
+    - 프로그램에서 다룰 수 있는 모든 값 (좋은 language 라면)
+- 이름의 유효범위 (scope)가 한정됨. 따라서,
+    - 이름 재사용 가능: 재사용 불가능하면 이름 짓느라 머리아프겠지...
+    - 전체 프로그램의 모든 이름을 외울 필요 없음
+    - 이름이 필요한 곳에만 알려짐
+- 이름의 유효범위(scope)는 쉽게 결정됨    
+
+### 2.2. 이름의 유효범위(scope) 결정
+프로그램 텍스트에서 쉽게 결정됨 (lexical scoping, static scoping)
+
 ## 3. 재귀와 고차함수 (recursion & higher-order functions)
 ## 4. 프로그램의 계산복잡도 (program complexity)
 ## 5. 타입으로 정리하기 (types & typeful programming)
